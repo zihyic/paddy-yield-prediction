@@ -105,3 +105,8 @@ pip install -r requirements.txt
 - Sah et al. (2024). Rice yield prediction … *Scientific Reports.*
 - Sahoo et al. (2024). Advanced prediction of rice yield gaps … *J. of Agriculture and Food Research.*
 - Wickramasinghe et al. (2021). Modeling the relationship between rice yield and climate variables … *J. of Mathematics.*
+
+## Visualizations
+
+![Paddy yield distribution](visuals/paddy_yield_dist.png)
+![RQ4 model comparison — test R²](visuals/paddy_model_compare.png)
