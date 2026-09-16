@@ -110,3 +110,15 @@ pip install -r requirements.txt
 
 ![Paddy yield distribution](visuals/paddy_yield_dist.png)
 ![RQ4 model comparison — test R²](visuals/paddy_model_compare.png)
+
+## More Results
+
+![Climate-only vs full-feature 5-fold CV R²](visuals/paddy_climate_vs_full_r2.png)
+
+![Predicted vs actual yield — gradient boosting, test set](visuals/paddy_predicted_vs_actual.png)
+
+![Climate–yield correlation by growth stage](visuals/paddy_climate_correlation.png)
+
+![K-means productivity categories](visuals/paddy_kmeans_categories.png)
+
+
